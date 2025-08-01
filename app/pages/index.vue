@@ -1,28 +1,12 @@
-<!-- <template>
-  <div>
-    <HeroSection />
-    <FeatureSlider />
-
-    <FeaturedProducts />
-  </div>
-</template>
-
-<script setup>
-import HeroSection from "@/components/HeroSection.vue";
-import FeatureSlider from "@/components/FeaturedSlider.vue";
-import FeaturedProducts from "./FeaturedProducts.vue";
-</script> -->
-
-
 <template>
-  <div>
-    <HeroSection />
-    <FeaturedCategories />
-    <LookbookSection />
-    <BrandIntro />
-    <PromoPopup />
-    <ServicesSection />
-  </div>
+    <div>
+        <HeroSection />
+        <FeaturedCategories />
+        <LookbookSection />
+        <BrandIntro />
+        <PromoPopup />
+        <ServicesSection />
+    </div>
 </template>
 
 <script setup>
