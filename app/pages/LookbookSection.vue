@@ -9,7 +9,7 @@
                 <img
                     v-for="i in 3"
                     :key="i"
-                    :src="`/images/${i + 5}.png`"
+                    :src="`images/${i + 5}.png`"
                     class="rounded-xl w-full h-80 object-cover"
                 />
             </div>
