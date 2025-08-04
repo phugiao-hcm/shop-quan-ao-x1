@@ -28,9 +28,9 @@
 
 <script setup>
 const categories = [
-    { id: 1, name: "Áo Thun", image: "/images/1.png" },
-    { id: 2, name: "Quần Jeans", image: "/images/2.png" },
-    { id: 3, name: "Váy Nữ", image: "/images/3.png" },
-    { id: 4, name: "Phụ Kiện", image: "/images/4.png" },
+    { id: 1, name: "Áo Thun", image: "images/1.png" },
+    { id: 2, name: "Quần Jeans", image: "images/2.png" },
+    { id: 3, name: "Váy Nữ", image: "images/3.png" },
+    { id: 4, name: "Phụ Kiện", image: "images/4.png" },
 ];
 </script>
